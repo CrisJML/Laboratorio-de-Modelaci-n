@@ -1,2 +1,2 @@
-# Laboratorio-de-Modelaci-n
+# Laboratorio-de-Modelación
 Códigos de MAT282
